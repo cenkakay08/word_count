@@ -1,3 +1,7 @@
+# Github Pages Link
+https://cenkakay08.github.io/word_count/
+
+Created for lecture homework. 
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
